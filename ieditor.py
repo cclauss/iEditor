@@ -17,4 +17,4 @@ def main():
 if __name__ == '__main__':
 	main()
   
-# iEditor for Pythonista by GoDzM4TT3O, thanks to cclaus for dictionary lookup
+# iEditor for Pythonista by GoDzM4TT3O, thanks to cclauss for dictionary lookup
