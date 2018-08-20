@@ -7,7 +7,7 @@ def main():
 	name = console.input_alert("Name", 'Choose a name for your new file with an extension (e.g. .txt | .html | .py | .md)')
 	firstline = {
 		'md': "# " + name + "\n\n",
-		'html': ("<!--iEditor by GoDzM4TT3O / iGoDz.pw / GoDzM4TT3O.js.org-->\n"
+		'html': "<!--iEditor by GoDzM4TT3O / iGoDz.pw / GoDzM4TT3O.js.org-->\n"
 			 "<!DOCTYPE html>\n<html>\n<head>\n<title>Site title</title>\n</head>\n<body>\n"
 			 "<p>iEditor for Pythonista by <a href=\"https://godzm4tt3o.js.org\">GoDzM4TT3O</a>. "
 			 "<a href=\"https://iGoDz.pw\">Website</a>.</p>\n</body>\n</html>",
